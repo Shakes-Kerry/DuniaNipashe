@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="loading">Loading</string>
+
+    <!-- top headlines -->
+    <string name="top_head_lines_title">Top Headlines</string>
+    <string name="news_sources_title">News Sources</string>
+    <string name="countries_title">Countries</string>
+    <string name="languages_title">Languages</string>
+    <string name="search_title">Search</string>
+
+    <!-- top headlines -->
+    <string name="source_bloomberg_title">Bloomberg</string>
+    <string name="source_the_wall_street_journal_title">Wall Street Journal</string>
+    <string name="source_usa_today_title">USA today</string>
+    <string name="source_reuters_title">Reuters</string>
+    <string name="source_nbc_news_title">NBC News</string>
+    <string name="source_cnn_title">CNN</string>
+
+    <!-- search -->
+    <string name="hint_search">Search</string>
+</resources>
